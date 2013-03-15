@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<serverinfo>
+	    <baseURL>https://ui.qa1.wgennc.net</baseURL>
+		<user>admin@wgen.net</user>
+		<password>wgentest</password>
+	</serverinfo>
+
+	<courses>
+		<course>
+		    <name>Try1</name>
+		    <code>Try1</code>
+		</course>
+		<course>
+		    <name>Try2</name>
+		    <code>Try2</code>
+		</course>
+	</courses>
+	<sections>
+	    <section>
+	        <name>Vicky_SCI</name>
+	        <code>Vicky_SCI</code>
+	        <coursename>Try1</coursename>
+	        <startdate></startdate>
+	        <sectionname></sectionname>
+	        <description></description>
+	        <unitname></unitname>
+	        <unitoverview></unitoverview>
+	        <imagelink></imagelink>
+	        <school></school>
+	    </section>
+	</sections>
+	<teachers>
+	    <teacher>
+	        <name></name>
+	        <uid>T14</uid>
+	        <email></email>
+	        <password>1</password>
+	        <sectionname>[KD_4] KD_4</sectionname>
+	        <sectionname>[KD_8] KD_8</sectionname>
+	    </teacher>
+	    <teacher>
+	        <name>T2</name>
+	        <uid>T2</uid>
+	        <email></email>
+	        <password>1</password>
+	        <sectionname>[ELA-Hima-1] ELA-Hima-1</sectionname>
+	        <sectionname>[ELA_T1_S1B-3B] T1 and S1B through S3B - ELA</sectionname>
+	    </teacher>
+	</teachers>
+	<students>
+		<student>
+	        <name>S2</name>
+	        <uid>S2</uid>
+	        <email>xxx@wgen.net</email>
+	        <password>Test1234</password>
+	        <sectionname>[KD_4] KD_4</sectionname>
+	        <sectionname>[KD_8] KD_8</sectionname>
+	 	</student>
+	</students>
+	<lessonlists>
+	    <lessonlist>
+	        <sectionname>KD_4</sectionname>
+	        <data>[{"id":"596158","title":" A1: Introducing the Writer's Mindset"}]</data>
+	    </lessonlist>
+	</lessonlists>
+</data>
